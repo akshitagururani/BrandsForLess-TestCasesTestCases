@@ -63,24 +63,15 @@ I am a passionate QA professional with extensive experience in manual and automa
 
 ---
 
-## 🔗 References
-
-* Brands For Less Official Website: (https://www.brandsforless.com/en-ae/)
-* Selenium Automation Frameworks and Best Practices
-* Test Case Design Techniques and Methodologies
-
----
 
 ## 📩 Contact
 
-Feel free to reach out to me for questions or collaboration:
-\[Your LinkedIn Profile]
-\[Your Email Address]
+Feel free to reach out to me :
+\https://www.linkedin.com/in/akshitagururani/
+\aashigururani@gmail.com
 
 ---
 
 *Thank you for visiting! Happy Testing! 🚀*
 
----
 
-Would you like me to help you generate a `.md` file ready to upload to GitHub?
